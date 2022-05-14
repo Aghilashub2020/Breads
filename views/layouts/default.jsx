@@ -22,6 +22,7 @@ function Default(html) {
           crossOrigin="anonymous"
         />
         <link rel="stylesheet" href="/main.css" />
+        <link rel="shortcut icon" href="../images/john.jpg" type="image/jpg" />
       </head>
       <body>
         <div className="wrapper">
@@ -38,3 +39,4 @@ function Default(html) {
 }
 
 module.exports = Default;
+

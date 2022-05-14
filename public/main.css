@@ -1,11 +1,12 @@
-
-   
 body {
   background-color: floralwhite;
 }
 
-img {
-  width: 50%;
-  display: block;
-  margin: auto;
+
+.show-buttons {
+  display: flex;
+  gap: 20px;
+}
+.imgBread {
+  width: 850px;
 }
